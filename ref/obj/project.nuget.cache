@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/8kirA/7DbyjmHr7ehyPBBN7w2IDmimw/aUhp9/5UEDHhFrsDRklyFIdx6X0BK9XRbMD1UOfn/FYrCOWqe/BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emrah.ince\\source\\repos\\Work\\newfor.net8\\ref\\ref.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.atros.com.tr/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

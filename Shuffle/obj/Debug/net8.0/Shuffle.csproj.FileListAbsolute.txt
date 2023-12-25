@@ -1,0 +1,14 @@
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\bin\Debug\net8.0\Shuffle.exe
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\bin\Debug\net8.0\Shuffle.deps.json
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\bin\Debug\net8.0\Shuffle.runtimeconfig.json
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\bin\Debug\net8.0\Shuffle.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\bin\Debug\net8.0\Shuffle.pdb
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.AssemblyInfoInputs.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.AssemblyInfo.cs
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.csproj.CoreCompileInputs.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\refint\Shuffle.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.pdb
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\Shuffle.genruntimeconfig.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\Shuffle\obj\Debug\net8.0\ref\Shuffle.dll

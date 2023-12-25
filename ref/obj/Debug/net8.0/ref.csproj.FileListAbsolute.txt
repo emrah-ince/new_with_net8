@@ -1,0 +1,14 @@
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\bin\Debug\net8.0\ref.exe
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\bin\Debug\net8.0\ref.deps.json
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\bin\Debug\net8.0\ref.runtimeconfig.json
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\bin\Debug\net8.0\ref.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\bin\Debug\net8.0\ref.pdb
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.AssemblyInfoInputs.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.AssemblyInfo.cs
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.csproj.CoreCompileInputs.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\refint\ref.dll
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.pdb
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref.genruntimeconfig.cache
+C:\Users\emrah.ince\source\repos\Work\newfor.net8\ref\obj\Debug\net8.0\ref\ref.dll
